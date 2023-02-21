@@ -16,6 +16,7 @@ public class Main {
         Knight mateusz = new Knight("Mateusz", 100);
         Angel dagmara = new Angel("Dagmara", 500);
         Demon mariusz = new Demon("Mariusz", 10000);
+        Demon mariusz2 = new Demon("Mariusz2", 55);
 
 
         ArrayList<Hero> heroesList = new ArrayList<>();
